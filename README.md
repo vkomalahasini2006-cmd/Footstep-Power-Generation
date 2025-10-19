@@ -1,4 +1,4 @@
-# Footstep Power Generation ⚡👣
+# Footstep Power Generation 
 
 This project converts the mechanical energy from footsteps into electrical energy using piezoelectric sensors.
 
@@ -15,5 +15,3 @@ When a person steps on the plate, pressure is applied on the piezo sensors which
 ## 💻 Code
 The microcontroller monitors the generated voltage and displays it.
 
----
-*Made with 💡 and teamwork!*
